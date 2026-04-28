@@ -6,6 +6,7 @@
 
 C++ · Python · Clang++ · CMake · Linux · Git  
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Omnivod&layout=compact&theme=tokyonight
-
-https://github-readme-stats.vercel.app/api?username=Omnivod&show_icons=true&theme=tokyonight
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-omega-snow-98.vercel.app/api?username=Omnivod&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-omega-snow-98.vercel.app/api/top-langs/?username=Omnivod&layout=compact&theme=tokyonight" />
+</div>

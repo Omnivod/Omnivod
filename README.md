@@ -4,4 +4,4 @@
 
 ### 💻 Tech Stack
 
-C++ · Python · Clang++ · CMake · Linux · Git  
+C++ · Clang++ · CMake · Linux · Git  
